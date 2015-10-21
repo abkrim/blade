@@ -57,7 +57,7 @@
 
 @yield('content')
 
-@yield('footer')
+@include('footer')
 
 <!-- Bootstrap core JavaScript
 ================================================== -->
